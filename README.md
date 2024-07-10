@@ -1,2 +1,2 @@
-# coursera-project
+# Coursera-Project
 Testing Jupyter Notebook
